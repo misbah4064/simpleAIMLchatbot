@@ -1,0 +1,33 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HELLO *</pattern>
+        <template>
+            Well, hello Misbah!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            I'm a bot, and I'm silly!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT DO YOU DO</pattern>
+        <template>
+            I'm here to annoy you!
+        </template>
+    </category>
+
+    <category>
+        <pattern>Who am i</pattern>
+        <template>
+            You run a crappy YouTube Channel, get a life...
+        </template>
+    </category>
+
+
+</aiml>
